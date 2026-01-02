@@ -6,7 +6,7 @@
 
 ```bash
 # Clone and install
-git clone <your-repo-url>
+git clone https://github.com/JakubFrejlach/jissue
 cd jissue
 pip install -e .
 ```

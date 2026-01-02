@@ -24,7 +24,7 @@ Jissue combines the power of Claude AI with your Jira workflow. Simply describe 
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/JakubFrejlach/jissue
 cd jissue
 
 # Install the package
